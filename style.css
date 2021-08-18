@@ -210,6 +210,10 @@ hr.socket {
 /* -------------------Responsive--------------------- */
 
 @media (max-width:767px) {
+    .navbar {
+        background-color: #565555 !important;
+    }   
+
     .caption h1 {
         padding-bottom: .5rem;
         font-size: 2.3rem;
@@ -235,5 +239,6 @@ hr.socket {
         display: block;
         margin: 0 auto;
     }
-    
 }
+
+/* --------------------------- */
